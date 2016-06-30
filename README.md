@@ -3,7 +3,7 @@
  * Last update: 2016-06-30
  * Author: [Gerviba]
  * License: Creative Commons Attribution-ShareAlike 4.0 International [License]
-* Short description: Netty based chat client for my NettyChatServer project.
+ * Short description: Netty based chat client for my NettyChatServer project.
 
 ### FEATURES
  * CLI and GUI compatibility
@@ -20,7 +20,9 @@
 
 ### SCREENSHOTS
 
-
+![LoginGUI](https://github.com/Gerviba/NettyChatClient/blob/master/screenshots/LoginRegisterGUI.png?raw=true)
+![ChatGUI](https://github.com/Gerviba/NettyChatClient/blob/master/screenshots/ChatGUI.png?raw=true)
+![PasswordGUI](https://github.com/Gerviba/NettyChatClient/blob/master/screenshots/PasswordGUI.png?raw=true)
 
 `Donate here if you wish.` [HERE]
 
