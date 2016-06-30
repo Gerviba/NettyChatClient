@@ -24,7 +24,7 @@
 ![ChatGUI](https://github.com/Gerviba/NettyChatClient/blob/master/screenshots/ChatGUI.png?raw=true)
 ![PasswordGUI](https://github.com/Gerviba/NettyChatClient/blob/master/screenshots/PasswordGUI.png?raw=true)
 
-`Donate here if you wish.` [HERE]
+`Donate if you wish.` [HERE]
 
 [Gerviba]:https://github.com/Gerviba
 [HERE]:https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64K9CU3CX3FV4
